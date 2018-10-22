@@ -2,6 +2,8 @@ Ejemplos de código del tutorial de http://www.react.express/
 
 Para una correcta comprobación de los ejemplos que hay aquí hay que realizar el _setup_ establecido en http://www.react.express/.
 
+Una vez instalado todo, para comprobar los ejemplos, se debería cambiar el nombre de cada fichero por index.js.
+
 **Setup**
 
 Instalar Webpack, Babel y React y seguir las configuraciones que se indican en [React-express.](http://www.react.express/setup).                                                  
