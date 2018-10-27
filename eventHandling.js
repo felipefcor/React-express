@@ -18,4 +18,4 @@ class CounterButton extends Component{
 
 }
 
-render (<CounterButton />, document.querySelector('#app'))
+render (<CounterButton />, document.querySelector('#app')) 
