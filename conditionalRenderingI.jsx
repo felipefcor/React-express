@@ -8,7 +8,7 @@ class Card extends Component{
 		return(
 			<div style = {styles.card}>
 				<h1 style={styles.title}>{title}</h1>
-				{subtitle %% (
+				{subtitle && (
 					<h2 style={styles.subtitle}> {subtitle}</h2>
 					)}
 			</div>
