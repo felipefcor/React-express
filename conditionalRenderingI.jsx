@@ -5,7 +5,7 @@ class Card extends Component{
 	render () {
 		const {title, subtitle}= this.props
 
-		retur(
+		return(
 			<div style = {styles.card}>
 				<h1 style={styles.title}>{title}</h1>
 				{subtitle %% (
