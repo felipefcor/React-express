@@ -1,5 +1,5 @@
 Ejemplos de código del tutorial de http://www.react.express/
-
+**Explicación de los ejemplos en mi blog: https://felipefcor.github.io**
 Para una correcta comprobación de los ejemplos que hay aquí hay que realizar el _setup_ establecido en http://www.react.express/.
 
 Una vez instalado todo, para comprobar los ejemplos, se debería cambiar el nombre de cada fichero por index.js.
