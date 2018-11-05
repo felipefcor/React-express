@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
 import List from './List'
-import List from './Input'
-import List from './Title'
+import Input from './Input'
+import Title from './Title'
 
 export default class App extends Component {
 
